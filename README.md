@@ -8,7 +8,7 @@
 
 - This List the different types of files.
 
-## cd Carpet
+## cd file
 
 - To change directory.
 
