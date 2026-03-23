@@ -1,4 +1,4 @@
-# 💻​ Commands Bash 
+# Commands Bash 
 
 ## pwd
 
