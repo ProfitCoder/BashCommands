@@ -19,3 +19,10 @@
 ## mkdir file
 
 - To create a directory.
+
+### To see the directory:
+
+## cat file.txt
+## less file.txt
+## head file.txt
+## tail file.txt
