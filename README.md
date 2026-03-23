@@ -11,3 +11,11 @@
 ## cd Carpet
 
 - To change directory.
+
+## touch file.txt
+
+- To create a void file.
+
+## mkdir file
+
+- To create a directory.
