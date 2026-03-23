@@ -20,7 +20,7 @@
 
 - To create a directory.
 
-### To see the directory:
+# To see the directory:
 
 ## cat file.txt
 ## less file.txt
