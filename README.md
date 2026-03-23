@@ -8,6 +8,10 @@
 
 - This List the different types of files.
 
+## ls -l
+
+- Describe the content from the directory
+
 ## cd file
 
 - To change directory.
@@ -26,3 +30,13 @@
 ## less file.txt
 ## head file.txt
 ## tail file.txt
+
+# More advanced
+
+## find . -name "file.txt"
+
+- It is use for search
+
+## grep "text" file.txt
+
+- It is use for search too
