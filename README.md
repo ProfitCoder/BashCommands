@@ -1,13 +1,13 @@
 # Commands Bash 
 
-### pwd
+## pwd
 
 - This is just to know in what carpet are you.
 
-### ls
+## ls
 
 - This List the different types of files.
 
-### cd Carpet
+## cd Carpet
 
 - To change directory.
